@@ -19,4 +19,5 @@ keywords:
   - sedimentation rate
   - uncertainty analysis
 type: software
-doi: 10.5281/zenodo.xxxxxxx  # Replace with actual Zenodo DOI once published
+doi: https://doi.org/10.5281/zenodo.17289007 
+
