@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use TERESApy in your research, please cite it using the following metadata."
+title: "TERESApy: Python Software Package for 210Pb-based Radiometric Dating of Recent Sediments"
+authors:
+  - family-names: Abril-Hernández
+    given-names: José María
+    orcid: https://orcid.org/0000-0003-2540-5576
+    affiliation: University of Seville, Department of Applied Physics I
+date-released: 2025-10-07
+version: 1.0.0
+repository-code: https://github.com/[your-repo-name]
+license: MIT
+keywords:
+  - 210Pb dating
+  - sediment chronology
+  - x-mapping models
+  - radiometric dating
+  - Python
+  - sedimentation rate
+  - uncertainty analysis
+type: software
+doi: 10.5281/zenodo.xxxxxxx  # Replace with actual Zenodo DOI once published
