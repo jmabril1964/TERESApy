@@ -48,7 +48,7 @@ TERESApy is a Python implementation of the TERESA model (Time Estimates from Ran
 
 If you use TERESApy in your research, please cite:
 
-> Abril-Hernández, J.M. (2025). TERESApy: Python Software Package for 210Pb-based Radiometric Dating of Recent Sediments. Zenodo. DOI: [to be assigned]
+> jmabril1964. (2025). jmabril1964/TERESApy: Initial release of TERESApy (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17289007
 
 ## License
 
